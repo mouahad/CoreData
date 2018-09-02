@@ -9,3 +9,8 @@
 import Foundation
 
 let API = "293294b3b9f6756c6c8193db8a118ae4"
+
+let APP = "etc"
+
+
+
